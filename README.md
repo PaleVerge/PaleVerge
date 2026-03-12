@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm a CS Student from University of Jinan</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/University-Jinan%20University-blue?style=for-the-badge&logo=github" alt="Jinan University">
+  <img src="https://img.shields.io/badge/University of Jinan%20University-blue?style=for-the-badge&logo=github" alt="University">
   <img src="https://img.shields.io/badge/Major-Computer%20Science%20&%20Technology-ff69b4?style=for-the-badge" alt="Major">
   <img src="https://img.shields.io/badge/Status-Freshman-9cf?style=for-the-badge" alt="Freshman">
 </p>
@@ -16,7 +16,7 @@
 | 领域         | 技术/工具                                                                 |
 |--------------|---------------------------------------------------------------------------|
 | 编程语言     | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> |
-| 开发工具/系统 | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> |
+| 开发工具     | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> |
 | 其他技能     | 前端开发、后端开发、项目测试、开源协作、多语言翻译                        |
 
 ### 🚀 Project Experience
@@ -30,7 +30,7 @@
 - 💡 技术亮点：基于 C 语言实现停车场的车位管理、计费、查询等核心功能
 - 📝 收获：夯实C语言基础，理解结构化程序设计思想
 
-### �开源贡献 🌍
+### 3.  开源贡献 🌍
 - 🐞 为 **readest** 项目贡献多个 Issue（问题反馈/功能建议）
 - 📖 协助 **calibre-web-automated** 项目完善中文翻译，提升中文用户体验
 
@@ -39,15 +39,15 @@
   <a href="https://github.com/PaleVerge" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
   </a>
-  <!-- 可补充邮箱/社交账号，如：
   <a href="mailto:fnme370679@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
-  -->
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaleVerge&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&layout=compact&theme=material-palenight">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PaleVerge&repo=PV-Code&theme=material-palenight">
 </p>
 
 <p align="center">
