@@ -7,17 +7,17 @@
 
 ### 📚 About Me
 - 🎓 济南大学 **计算机科学与技术专业** 大一在读
-- 💻 技术学习路径：C → C++ (ing) → Python (to learn)
+- 💻 技术学习路径：C → C++ (ing) → Python & JavaScript & Kotlin(to learn)
 - 🛠️ 主力开发环境：Ubuntu (桌面) + Android 17 (移动端)
 - 📱 日常设备：Pixel 6 Pro
-- ✨ 兴趣方向：前后端开发、开源贡献、项目工程化、算法
+- ✨ 兴趣方向：前后端开发、移动开发、开源贡献、算法开发
 
 ### 🛠️ Technical Stack
 | 领域         | 技术/工具                                                                 |
 |--------------|---------------------------------------------------------------------------|
-| 编程语言     | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> |
+| 编程语言     | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">  |
 | 开发工具     | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> |
-| 其他技能     | 前端开发、后端开发、项目测试、开源协作、多语言翻译                        |
+| 擅长技能     | 前端开发、项目测试、开源协作、汉语本地化                        |
 
 ### 🚀 Project Experience
 #### 1. 济大繁星评选打分系统 🌟
@@ -48,8 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PaleVerge&show_icons=true&theme=radical" alt="GitHub Stats">
   <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&layout=compact&theme=material-palenight">
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PaleVerge&repo=PV-Code&theme=material-palenight">
 </p>
 
 <p align="center">
