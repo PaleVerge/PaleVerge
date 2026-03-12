@@ -15,7 +15,7 @@
 ### 🛠️ Technical Stack
 | 领域         | 技术/工具                                                                 |
 |--------------|---------------------------------------------------------------------------|
-| 编程语言     | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> |
+| 编程语言     | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> |
 | 开发工具     | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> |
 | 其他技能     | 前端开发、后端开发、项目测试、开源协作、多语言翻译                        |
 
@@ -31,7 +31,7 @@
 - 📝 收获：夯实C语言基础，理解结构化程序设计思想
 
 ### 3.  开源贡献 🌍
-- 🐞 为 **readest** 项目贡献多个 Issue（问题反馈/功能建议）
+- 🐞 协助 **readest** 项目问题反馈/功能建议
 - 📖 协助 **calibre-web-automated** 项目完善中文翻译，提升中文用户体验
 
 ### 📫 Contact Me
@@ -46,7 +46,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaleVerge&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&layout=compact&theme=material-palenight">
+  <br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=PaleVerge&repo=PV-Code&theme=material-palenight">
 </p>
 
