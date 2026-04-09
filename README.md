@@ -7,10 +7,10 @@
 
 ### 📚 About Me
 - 🎓 济南大学 **计算机科学与技术专业** 大一在读
-- 💻 技术学习路径：C → C++ (ing) → Python & JavaScript & Kotlin(to learn)
-- 🛠️ 主力开发环境：Ubuntu (桌面) + Android 17 (移动端)
-- 📱 玩机设备：Pixel 3 / 6 Pro /9 Pro XL、Surface Pro 4/5/7/8
-- ✨ 兴趣方向：前后端开发、移动开发、开源贡献、算法开发
+- 💻 技术路径：C → C++ (ing) → Python & JavaScript & Kotlin
+- 🛠️ 开发环境：Ubuntu (桌面) + Android 17 (移动端)
+- 📱 玩机设备：Pixel 3/6Pro/9Pro XL、Surface Pro 4/5/7/8、OnePlus 13T
+- ✨ 兴趣方向：前端设计、后端开发、开源贡献、算法竞赛、本地化翻译
 
 ### 🛠️ Technical Stack
 | 领域         | 技术/工具                                                                 |
@@ -31,8 +31,8 @@
 - 📝 收获：夯实C语言基础，理解结构化程序设计思想
 
 ### 3.  开源贡献 🌍
-- 🐞 协助 **readest** 项目问题反馈/功能建议
-- 📖 协助 **calibre-web-automated** 项目完善中文翻译，提升中文用户体验
+- 🐞 协助 **readest** 项目问题反馈/功能建议/代码审阅
+- 📖 协助 **calibre-web-automated** 项目完善中文翻译，提升中文用户体验，功能反馈
 
 ### 📫 Contact Me
 <p align="center">
