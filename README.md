@@ -10,7 +10,7 @@
 - 💻 技术路径：C → C++ (ing) → Python & JavaScript & Kotlin
 - 🛠️ 开发环境：Ubuntu (桌面) + Android 17 (移动端)
 - 📱 玩机设备：Pixel 3/6Pro/9Pro XL、Surface Pro 4/5/7/8、OnePlus 13T
-- ✨ 兴趣方向：前端设计、后端开发、开源贡献、算法竞赛、本地化翻译
+- ✨ 兴趣方向：前端设计、后端开发、开源贡献、算法研究
 
 ### 🛠️ Technical Stack
 | 领域         | 技术/工具                                                                 |
