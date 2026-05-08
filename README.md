@@ -6,16 +6,16 @@
 </p>
 
 ### 📚 About Me
-- 🎓 济南大学 **计算机科学与技术专业** 大一在读
-- 💻 技术路径：C → C++ (ing) → Python & JavaScript & Kotlin
-- 🛠️ 开发环境：Ubuntu (桌面) + Android 17 (移动端)
-- 📱 玩机设备：Pixel 3/6Pro/9Pro XL、Surface Pro 4/5/7/8、OnePlus 13T
-- ✨ 兴趣方向：前端设计、后端开发、开源贡献、算法研究
+- 🎓 UJN **Computer And Science Major** Freshman
+- 💻 Technology Stack：C → C++ (ing) → Python & JavaScript & Kotlin 
+- 🛠️ Environment：Ubuntu + Android 17
+- 📱 Devices：Pixel 3/6Pro/9Pro XL、Surface Pro 4/5/7/8、OnePlus 13T
+- ✨ Interests：FrontEnd、RearEnd、OpenScouce、Algorithm
 
 ### 🛠️ Technical Stack
-| 领域         | 技术/工具                                                                 |
+| Fields       | Skills/Tools                                                               |
 |--------------|---------------------------------------------------------------------------|
-| 编程语言     | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">  |
+| Languages     | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">  |
 | 开发工具     | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> |
 | 擅长技能     | 前端部署、项目测试、开源协作、汉语本地化                       |
 
