@@ -6,7 +6,7 @@
 </p>
 
 ### 📚 About Me
-- 🎓 UJN **Computer And Science Major** Freshman
+- 🎓 UJN： **Computer And Science Major** Freshman
 - 💻 Technology Stack：C → C++ (ing) → Python & JavaScript & Kotlin 
 - 🛠️ Environment：Ubuntu + Android 17
 - 📱 Devices：Pixel 3/6Pro/9Pro XL、Surface Pro 4/5/7/8、OnePlus 13T
@@ -16,8 +16,8 @@
 | Fields       | Skills/Tools                                                               |
 |--------------|---------------------------------------------------------------------------|
 | Languages     | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">  |
-| 开发工具     | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> |
-| 擅长技能     | 前端部署、项目测试、开源协作、汉语本地化                       |
+| Dev Tools     | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> |
+| Skills     | Front-end development、Open source collaboration、Chinese localization                    |
 
 ### 🚀 Project Experience
 #### 1. 济大繁星评选打分系统 🌟
