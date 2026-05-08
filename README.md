@@ -6,8 +6,8 @@
 </p>
 
 ### 📚 About Me
-- 🎓 UJN： **Computer And Science Major** Freshman
-- 💻 Technology Stack：C → C++ (ing) → Python & JavaScript & Kotlin 
+- 🎓 Freshman in **University of JiNan**： Major in Computer & Science
+- 💻 Technical Stack：C → C++ (ing) → Python & JavaScript & Kotlin 
 - 🛠️ Environment：Ubuntu + Android 17
 - 📱 Devices：Pixel 3/6Pro/9Pro XL、Surface Pro 4/5/7/8、OnePlus 13T
 - ✨ Interests：FrontEnd、RearEnd、OpenScouce、Algorithm
