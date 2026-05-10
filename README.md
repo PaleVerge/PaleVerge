@@ -6,7 +6,7 @@
 </p>
 
 ### 📚 About Me
-- 🎓 Freshman from **University of JiNan**： Major in Computer & Science
+- 🎓 **University of JiNan**： Major in Computer & Science
 - 💻 Technical Stack：C → C++ (ing) → Python & JavaScript & Kotlin 
 - 🛠️ Environment：Ubuntu + Android 17
 - 📱 Devices：Pixel 3/6Pro/9Pro XL、Surface Pro 4/5/7/8、OnePlus 13T
@@ -45,8 +45,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaleVerge&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br/>
-
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&layout=compact&theme=material-palenight">
 </p>
