@@ -52,7 +52,10 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&layout=donut&theme=material-palenight&border_radius=35">
 </p>
 
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaleVerge&theme=material-palenight&border_radius=15" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PaleVerge&theme=material-palenight&border_radius=15" />
-
+<p align="center">
+<a href="https://wakatime.com/badge/user/33612af3-d9a2-4dd4-8be2-fa5e8944970b/project/60e0068a-7277-42e2-a687-883489944e19"><img src="https://wakatime.com/badge/user/33612af3-d9a2-4dd4-8be2-fa5e8944970b/project/60e0068a-7277-42e2-a687-883489944e19.svg" alt="wakatime"></a>
+</p>
