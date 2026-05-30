@@ -19,6 +19,12 @@
 | Dev Tools     | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> |
 | Skills     | Front-end development、Open source collaboration、Chinese localization                    |
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/你的用户名/你的用户名/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 🚀 Project Experience
 #### 1. 济大繁星评选打分系统 🌟
 - 🖥️ 参与 **打分系统前端开发**（Vue3 技术栈）
