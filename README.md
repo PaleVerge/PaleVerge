@@ -44,8 +44,6 @@
   </a>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=PaleVerge&theme=radical&no-bg=false&margin-w=15" />
-
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaleVerge&show_icons=true&theme=material-palenight&border_radius=15&count_private=true&show=reviews,discussions_started,prs_merged&v=1" alt="PaleVerge's GitHub Stats" />
 </p>
