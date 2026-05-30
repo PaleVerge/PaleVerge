@@ -12,7 +12,7 @@
 - 📱 Devices：Pixel 3/6Pro/9Pro XL、Surface Pro 4/5/7/8、OnePlus 13T
 - ✨ Interests：FrontEnd、RearEnd、OpenScouce、Algorithm
 ### 📱 Contact Me
-| 📫 Mail       |💻 Media                                                             |
+|Media      |  Mail                                                        |
 |--------------|---------------------------------------------------------------------------|
 |<p align="center"><a href="https://github.com/PaleVerge" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a></p>  | <p align="center"><a href="mailto:fnme370679@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a></p>  |
 
@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&layout=donut&theme=material-palenight&border_radius=35">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&layout=compct&theme=material-palenight&border_radius=35">
 </p>
 
 <p align="center">
