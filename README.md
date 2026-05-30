@@ -9,7 +9,7 @@
 
 ### 📚 About Me
 - 🎓 **University of JiNan**： Major in Computer & Science
-- 💻 Technical Stack：C → C++ (ing) → Python & JavaScript & Kotlin 
+- 💻 Technical Stack：C → C++ (ing) → Python (ing) → DeepLearn (ing) → OpenCV (ing) → JavaScript → Kotlin 
 - 🛠️ Environment：Ubuntu + Android 17
 - 📱 Devices：Pixel 3/6Pro/9Pro XL、Surface Pro 4/5/7/8、OnePlus 13T
 - ✨ Interests：FrontEnd、RearEnd、OpenScouce、Algorithm
