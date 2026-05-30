@@ -45,5 +45,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&show_icons=true&layout=donut&theme=material-palenight">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&show_icons=true&layout=pie&theme=material-palenight&hide_border=true&border_radius=15">
 </p>
