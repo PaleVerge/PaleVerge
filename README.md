@@ -11,6 +11,10 @@
 - 🛠️ Environment：Ubuntu + Android 17
 - 📱 Devices：Pixel 3/6Pro/9Pro XL、Surface Pro 4/5/7/8、OnePlus 13T
 - ✨ Interests：FrontEnd、RearEnd、OpenScouce、Algorithm
+### 📱 Contact Me
+| 📫 Mail       |💻 Media                                                             |
+|--------------|---------------------------------------------------------------------------|
+|<p align="center"><a href="https://github.com/PaleVerge" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a></p>  | <p align="center"><a href="mailto:fnme370679@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a></p>  |
 
 ### 🛠️ Technical Stack
 | Fields       | Skills/Tools                                                               |
@@ -40,15 +44,6 @@
 - 🐞 协助 **readest** 项目问题反馈/功能建议/代码审阅
 - 📖 协助 **calibre-web-automated** 项目完善中文翻译，提升中文用户体验，功能反馈
 
-### 📫 Contact Me
-<p align="center">
-  <a href="https://github.com/PaleVerge" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:fnme370679@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaleVerge&show_icons=true&theme=material-palenight&border_radius=15&count_private=true&show=reviews,discussions_started,prs_merged&v=1" alt="PaleVerge's GitHub Stats" />
