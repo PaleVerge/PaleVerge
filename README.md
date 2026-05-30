@@ -23,11 +23,13 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&layout=compact&theme=material-palenight">
 </p>
 <div align="center">
+  
 | Fields       | Skills/Tools                                                               |
 |--------------|---------------------------------------------------------------------------|
 | Languages     | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Vue3-4FC08D?logo=vue.js&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">  |
 | Dev Tools     | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> |
 | Skills     | Front-end development、Open source collaboration、Chinese localization                    |
+
 </div>
 ---
 
