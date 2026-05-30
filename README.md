@@ -51,3 +51,6 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&layout=donut&theme=material-palenight&border_radius=35">
 </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PaleVerge&theme=material-palenight&border_radius=15" />
+
