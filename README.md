@@ -54,3 +54,5 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaleVerge&theme=material-palenight&border_radius=15" />
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PaleVerge&theme=material-palenight&border_radius=15" />
+
