@@ -4,10 +4,13 @@
   <img src="https://img.shields.io/badge/Major-Computer%20Science%20&%20Technology-ff69b4?style=for-the-badge" alt="Major">
   <img src="https://img.shields.io/badge/Status-Freshman-9cf?style=for-the-badge" alt="Freshman">
 </p>
-
+  
 ---
 
 ### 📚 About Me
+[![github](https://img.shields.io/github/followers/PaleVerge?logo=github&style=plastic)](https://github.com/PaleVerge?tab=followers)
+[![wakatime](https://wakatime.com/badge/user/33612af3-d9a2-4dd4-8be2-fa5e8944970b.svg)](https://wakatime.com/@33612af3-d9a2-4dd4-8be2-fa5e8944970b)
+[![twitter](https://img.shields.io/twitter/follow/wakatime?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/qing1435)
 - 🎓 **University of JiNan**： Major in Computer & Science
 - 💻 Technical Stack：C → C++ (ing) → Python (ing) → DeepLearn (ing) → OpenCV (ing) → JavaScript → Kotlin 
 - 🛠️ Environment：Ubuntu + Android 17
