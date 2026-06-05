@@ -38,9 +38,6 @@
 ---
 
 ### 💻 My States
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PaleVerge&theme=material-palenight&border_radius=15" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaleVerge&show_icons=true&theme=material-palenight&border_radius=15&count_private=true&show=reviews,discussions_started,prs_merged&v=1" alt="PaleVerge's GitHub Stats" />
