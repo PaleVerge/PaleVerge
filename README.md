@@ -74,22 +74,25 @@
 - 🖼️ 自动配色相关项目
 - 🔗 项目地址：[PaleVerge/AutoColor](https://github.com/PaleVerge/AutoColor)
 
-#### 4. 济大繁星评选打分系统 🌟
+#### 4. [济大繁星评选打分系统](https://github.com/PaleVerge/PV-xgzx-stars-score) 🌟
 
 - 🖥️ 参与 **打分系统前端开发**，使用 Vue 3 技术栈
 - 🚀 独立完成 **测试系统前后端全栈开发**
 - 🎯 服务校内评选打分业务需求
+- 🔗 项目地址：[PaleVerge/PV-xgzx-stars-score](https://github.com/PaleVerge/PV-xgzx-stars-score)
 
-#### 5. 停车场管理系统 🅿️
+#### 5. [停车场管理系统](https://github.com/PaleVerge/PV-Park) 🅿️
 
 - 📖 大一上学期 C 语言课程设计项目
 - 💡 基于 C 语言实现停车场车位管理、计费、查询等核心功能
 - 📝 夯实 C 语言基础，加深对结构化程序设计的理解
+- 🔗 项目地址：[PaleVerge/PV-Park](https://github.com/PaleVerge/PV-Park)
 
 #### 6. 开源贡献 🌍
 
-- 🐞 协助 **readest** 进行问题反馈、功能建议及代码审阅
-- 📖 协助 **calibre-web-automated** 完善中文翻译，提升中文用户体验，并参与功能反馈
+- 🐞 协助 [readest](https://github.com/readest/readest) 进行问题反馈、功能建议及代码审阅
+- 📖 协助 [Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 完善中文翻译，提升中文用户体验，并参与功能反馈
+- 🔗 项目地址：[readest/readest](https://github.com/readest/readest) · [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated)
 
 ---
 
@@ -105,4 +108,6 @@
   <a href="mailto:fnme370679@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
+  <img src="https://img.shields.io/badge/QQ-574746791-12B7F5?logo=tencentqq&logoColor=white" alt="QQ: 574746791">
+  <img src="https://img.shields.io/badge/WeChat-distandce-07C160?logo=wechat&logoColor=white" alt="WeChat: distandce">
 </p>
