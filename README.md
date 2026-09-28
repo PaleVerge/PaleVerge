@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm a CS Student from University of Jinan</h1>
+<h1 align="center"> A CS Student from University of Jinan.</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-University%20of%20Jinan-blue?style=for-the-badge&logo=academia" alt="University">
@@ -17,7 +17,7 @@
 - 🎓 **University of Jinan**：Computer Science and Technology（大二）
 - 💻 已学习：C、C++、Vue 3
 - 🌱 当前学习：Python、机器学习、深度学习、算法
-- 🦴 研究方向：人体骨架识别（Human Pose Estimation）
+- 🦴 研究方向：骨架识别（Pose Estimation）
 - ✨ 兴趣方向：全栈开发、开源、算法、人工智能
 
 ---
@@ -32,13 +32,12 @@
 
 | Fields | Skills / Tools |
 |:---:|:---:|
-| Languages | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white"> |
+| Languages | <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">  |
 | Frameworks | <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white"> |
-| IDE | <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white"> <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white"> |
-| 协作 | <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"> |
+| Tools | <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"> |
 | 系统 | <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"> |
-| AI 工具 | <img src="https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/OpenCode-000000?logo=opencode&logoColor=white"> <img src="https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?logo=deepseek&logoColor=white"> <img src="https://img.shields.io/badge/Reasonix-6C63FF?logo=robotframework&logoColor=white"> |
-| Skills | 全栈开发、机器学习、深度学习、人体骨架识别、算法、开源协作、中文本地化 |
+| AI 工具 |  <img src="https://img.shields.io/badge/MiMo%20Code-FF6900?logo=xiaomi&logoColor=white">  <img src="https://img.shields.io/badge/Codex-000000?logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?logo=deepseek&logoColor=white"> <img src="https://img.shields.io/badge/Reasonix-6C63FF?logo=robotframework&logoColor=white"> |
+| Skills | 全栈开发、机器学习、深度学习、骨架识别、算法、开源协作、中文本地化 |
 
 </div>
 
@@ -60,41 +59,40 @@
 
 ### 🚀 Project Experience
 
-#### 1. [MD3 风格个人博客](https://github.com/PaleVerge/M3Blog) 📝
+#### 1. [青松坐姿 PinEase](https://github.com/PaleVerge/PinEase) 🪑
+- 🦴 基于浏览器端侧 AI 的青少年坐姿健康监测与管理公益服务平台
+- 💡 采用 React 19 + TypeScript + Vite 构建，支持 PWA 离线安装
+- 🤖 利用 MediaPipe 人体姿态估计模型，通过前置摄像头实时检测坐姿状态
+- 🔗 项目地址：[PaleVerge/PinEase](https://github.com/PaleVerge/PinEase)
 
+#### 2. [chaoxing-gui](https://github.com/PaleVerge/chaoxing-gui) 🤖
+- 📚 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点工具
+- 🐍 基于 Python 编写，提供跨平台 GUI 界面，解放双手
+- 🔗 项目地址：[PaleVerge/chaoxing-gui](https://github.com/PaleVerge/chaoxing-gui)
+
+#### 3. [MD3 风格个人博客](https://github.com/PaleVerge/M3Blog) 📝
 - 🎨 基于 Material Design 3 设计语言打造的个人博客项目
-- 🌐 用于记录学习过程、技术实践与个人思考
+- 🌐 使用 Vue 构建，用于记录学习过程、技术实践与个人思考
 - 🔗 项目地址：[PaleVerge/M3Blog](https://github.com/PaleVerge/M3Blog)
 
-#### 2. [坐姿卫士](https://github.com/PaleVerge/SettingDefender) 🪑
+#### 4. [koi2notion](https://github.com/PaleVerge/koi2notion) 📓
+- 📖 优雅地将 Kindle 笔记同步到 Notion 的实用工具
+- 🛠️ 基于 Python 开发，打通阅读与个人知识管理工作流
+- 🔗 项目地址：[PaleVerge/koi2notion](https://github.com/PaleVerge/koi2notion)
 
-- 🦴 面向坐姿监测与提醒的项目
-- 💡 结合人体骨架识别方向，探索更健康的电脑使用习惯
-- 🔗 项目地址：[PaleVerge/SettingDefender](https://github.com/PaleVerge/SettingDefender)
-
-#### 3. [AutoColor](https://github.com/PaleVerge/AutoColor) 🎨
-
-- 🖼️ 自动配色相关项目
+#### 5. [AutoColor](https://github.com/PaleVerge/AutoColor) 🎨
+- 🖼️ 适用于 Windows 11 的自动切换颜色主题轻量化软件
+- 💻 基于 C# 开发，融入沉浸式的桌面色彩体验
 - 🔗 项目地址：[PaleVerge/AutoColor](https://github.com/PaleVerge/AutoColor)
 
-#### 4. [济大繁星评选打分系统](https://github.com/PaleVerge/PV-xgzx-stars-score) 🌟
+#### 6. 校内实战项目 🏫
+- **[DormKeeper](https://github.com/PaleVerge/DormKeeper)**：门禁照片处理工具，适用于“智慧济大”企业微信，支持照片导出和生成视频
+- **[济大繁星评选打分系统](https://github.com/PaleVerge/PV-xgzx-stars-score)**：使用 Vue 3 参与打分系统前端开发，并独立完成测试系统前后端全栈开发
+- **[停车场管理系统](https://github.com/PaleVerge/PV-Park)**：大一上学期 C 语言课程设计，实现车位管理、计费查询等核心功能
 
-- 🖥️ 参与 **打分系统前端开发**，使用 Vue 3 技术栈
-- 🚀 独立完成 **测试系统前后端全栈开发**
-- 🎯 服务校内评选打分业务需求
-- 🔗 项目地址：[PaleVerge/PV-xgzx-stars-score](https://github.com/PaleVerge/PV-xgzx-stars-score)
-
-#### 5. [停车场管理系统](https://github.com/PaleVerge/PV-Park) 🅿️
-
-- 📖 大一上学期 C 语言课程设计项目
-- 💡 基于 C 语言实现停车场车位管理、计费、查询等核心功能
-- 📝 夯实 C 语言基础，加深对结构化程序设计的理解
-- 🔗 项目地址：[PaleVerge/PV-Park](https://github.com/PaleVerge/PV-Park)
-
-#### 6. 开源贡献 🌍
-
+#### 7. 开源贡献 🌍
 - 🐞 协助 [readest](https://github.com/readest/readest) 进行问题反馈、功能建议及代码审阅
-- 📖 协助 [Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 完善中文翻译，提升中文用户体验，并参与功能反馈
+- 📖 协助 [Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 完善中文翻译，提升中文用户体验
 - 🔗 项目地址：[readest/readest](https://github.com/readest/readest) · [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated)
 
 ---
