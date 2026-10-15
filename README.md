@@ -10,7 +10,7 @@
 
 ### 📚 About Me
 
-[![GitHub](https://img.shields.io/github/followers/PaleVerge?logo=github&style=plastic)](https://github.com/PaleVerge?tab=followers)
+[![GitHub](https://img.shields.io/github/followers/praxpur?logo=github&style=plastic)](https://github.com/praxpur?tab=followers)
 [![WakaTime](https://wakatime.com/badge/user/33612af3-d9a2-4dd4-8be2-fa5e8944970b.svg)](https://wakatime.com/@33612af3-d9a2-4dd4-8be2-fa5e8944970b)
 [![Twitter](https://img.shields.io/twitter/follow/qing1435?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/qing1435)
 
@@ -25,7 +25,7 @@
 ### 🛠️ Technical Stack
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaleVerge&layout=compact&theme=material-palenight&hide=Jupyter%20Notebook" alt="Most Used Languages">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=praxpur&layout=compact&theme=material-palenight&hide=Jupyter%20Notebook" alt="Most Used Languages">
 </p>
 
 <div align="center">
@@ -44,61 +44,66 @@
 ### 💻 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PaleVerge&show_icons=true&theme=material-palenight&border_radius=15&count_private=true&show=reviews,discussions_started,prs_merged&v=1" alt="PaleVerge's GitHub Stats">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=praxpur&show_icons=true&theme=material-palenight&border_radius=15&count_private=true&show=reviews,discussions_started,prs_merged&v=1" alt="praxpur's GitHub Stats">
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaleVerge/PaleVerge/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PaleVerge/PaleVerge/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/PaleVerge/PaleVerge/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/praxpur/praxpur/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/praxpur/praxpur/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/praxpur/praxpur/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 ### 🚀 Project Experience
 
-#### 1. [青松坐姿 PinEase](https://github.com/PaleVerge/PinEase) 🪑
-- 🦴 基于浏览器端侧 AI 的青少年坐姿健康监测与管理公益服务平台
-- 💡 采用 React 19 + TypeScript + Vite 构建，支持 PWA 离线安装
-- 🤖 利用 MediaPipe 人体姿态估计模型，通过前置摄像头实时检测坐姿状态
-- 🔗 项目地址：[PaleVerge/PinEase](https://github.com/PaleVerge/PinEase)
+#### 1. [青松坐姿 PinEase](https://github.com/praxpur/PinEase) 🪑
+- 🦴 面向青少年坐姿健康场景的浏览器端姿态识别原型
+- 🤖 调用摄像头与 MediaPipe Pose Landmarker，实时识别并绘制人体关键点
+- 💻 使用 Vue 3、Vite 和 MediaPipe Tasks Vision 开发
 
-#### 2. [chaoxing-gui](https://github.com/PaleVerge/chaoxing-gui) 🤖
-- 📚 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点工具
-- 🐍 基于 Python 编写，提供跨平台 GUI 界面，解放双手
-- 🔗 项目地址：[PaleVerge/chaoxing-gui](https://github.com/PaleVerge/chaoxing-gui)
+#### 2. [Treehouse-Course](https://github.com/praxpur/Treehouse-Course) 🌳
+- 🎓 使用 Python、Tk/ttk 与 Playwright 开发的桌面课程助手
+- 🎬 支持课程与视频选择、播放队列、倍速控制和登录状态复用
+- 🔐 登录由用户在浏览器中手动完成，登录状态保存在本地
 
-#### 3. [MD3 风格个人博客](https://github.com/PaleVerge/M3Blog) 📝
-- 🎨 基于 Material Design 3 设计语言打造的个人博客项目
-- 🌐 使用 Vue 构建，用于记录学习过程、技术实践与个人思考
-- 🔗 项目地址：[PaleVerge/M3Blog](https://github.com/PaleVerge/M3Blog)
+#### 3. [MediaPipe-CN](https://github.com/praxpur/MediaPipe-CN) 📖
+- 🌐 Google AI Edge MediaPipe 官方文档的简体中文镜像
+- 🖼️ 将文档整理为 Markdown 并保存图片，支持离线阅读
+- 📜 文档遵循 CC BY 4.0，代码示例遵循 Apache 2.0
 
-#### 4. [koi2notion](https://github.com/PaleVerge/koi2notion) 📓
-- 📖 优雅地将 Kindle 笔记同步到 Notion 的实用工具
-- 🛠️ 基于 Python 开发，打通阅读与个人知识管理工作流
-- 🔗 项目地址：[PaleVerge/koi2notion](https://github.com/PaleVerge/koi2notion)
+#### 4. [chaoxing-gui](https://github.com/praxpur/chaoxing-gui) 🤖
+- 📚 超星学习通任务点自动化工具的图形桌面客户端
+- 🐍 基于 Python 开发，提供参数配置、登录和运行进度界面
 
-#### 5. [AutoColor](https://github.com/PaleVerge/AutoColor) 🎨
-- 🖼️ 适用于 Windows 11 的自动切换颜色主题轻量化软件
-- 💻 基于 C# 开发，融入沉浸式的桌面色彩体验
-- 🔗 项目地址：[PaleVerge/AutoColor](https://github.com/PaleVerge/AutoColor)
+#### 5. [MD3 风格个人博客 M3Blog](https://github.com/praxpur/M3Blog) 📝
+- 🎨 基于 Material Design 3 的个人博客，支持文章、搜索、评论、点赞和留言
+- 🌐 使用 Vue 3、Vite、Node.js 和 Express 构建
 
-#### 6. 校内实战项目 🏫
-- **[DormKeeper](https://github.com/PaleVerge/DormKeeper)**：门禁照片处理工具，适用于"智慧济大"企业微信，支持照片导出和生成视频
-- **[济大繁星评选打分系统](https://github.com/PaleVerge/PV-xgzx-stars-score)**：使用 Vue 3 参与打分系统前端开发，并独立完成测试系统前后端全栈开发
-- **[停车场管理系统](https://github.com/PaleVerge/PV-Park)**：大一上学期 C 语言课程设计，实现车位管理、计费查询等核心功能
+#### 6. [Koi2Notion](https://github.com/praxpur/koi2notion) 📓
+- 📖 将 Kindle 剪贴板中的高亮与笔记同步到 Notion 数据库
+- 🐍 基于 Python，支持增量同步、重复识别和笔记关联
 
-#### 7. 开源贡献 🌍
-- 🐞 协助 [readest](https://github.com/readest/readest) 进行问题反馈、功能建议及代码审阅
-- 📖 协助 [Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 完善中文翻译，提升中文用户体验
-- 🔗 项目地址：[readest/readest](https://github.com/readest/readest) · [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated)
+#### 7. [AutoColor](https://github.com/praxpur/AutoColor) 🎨
+- 🖼️ Windows 11 托盘工具，按自定义时间或本地日出日落自动切换系统与应用主题
+- 💻 使用 C# 和 WinForms 开发，日出日落计算无需联网
+
+#### 8. 校内项目与编程练习 🏫
+- **[DormKeeper](https://github.com/praxpur/DormKeeper)**：整理本人有权访问的宿舍考勤抓拍，支持按年月归档、增量下载和视频合成
+- **[济大繁星评选打分系统](https://github.com/praxpur/PV-xgzx-stars-score)**：参与 Vue 3 前端开发，并独立完成测试系统的前后端开发
+- **[停车场管理系统](https://github.com/praxpur/PV-Park)**：使用 C 语言和链表实现车辆管理、计费、查询与数据统计
+- **[PV-Cpp](https://github.com/praxpur/PV-Cpp)**：C++ 基础语法、类与对象、继承、多态、模板和文件读写练习
+
+#### 9. 开源贡献 🌍
+- 🐞 协助 [Readest](https://github.com/readest/readest) 进行问题反馈与功能建议
+- 📖 参与 [Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) 中文翻译
 
 ---
 
 ### 📱 Contact Me
 
 <p align="center">
-  <a href="https://github.com/PaleVerge" target="_blank">
+  <a href="https://github.com/praxpur" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://blog.proletib.xyz" target="_blank">
